@@ -5,12 +5,25 @@
     <link>https://liangchen-usc.github.io/author/maoqi-xu/</link>
       <atom:link href="https://liangchen-usc.github.io/author/maoqi-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Maoqi Xu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2015-2022 Liang Chen</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2015-2022 Liang Chen</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liangchen-usc.github.io/author/maoqi-xu/avatar_huc28e82309c50c6061bee0ef5a9d733e0_4213_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://liangchen-usc.github.io/media/icon_hu6989a23ee951c653d708b725e94b0b78_382583_512x512_fill_lanczos_center_3.png</url>
       <title>Maoqi Xu</title>
       <link>https://liangchen-usc.github.io/author/maoqi-xu/</link>
     </image>
+    
+    <item>
+      <title>An empirical likelihood ratio test robust to individual heterogeneity for differential expression analysis of RNA-seq</title>
+      <link>https://liangchen-usc.github.io/publication/maoqi_2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://liangchen-usc.github.io/publication/maoqi_2016/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Events | USC QCB Liang&#39;s Lab</title>
+    <link>https://liangchen-usc.github.io/event/</link>
+      <atom:link href="https://liangchen-usc.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2015-2022 Liang Chen</copyright><lastBuildDate>Thu, 17 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liangchen-usc.github.io/media/icon_hu6989a23ee951c653d708b725e94b0b78_382583_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>https://liangchen-usc.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>USC QCB yearly retreat 2022</title>
+      <link>https://liangchen-usc.github.io/event/qcb_retreat_2022/</link>
+      <pubDate>Thu, 17 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://liangchen-usc.github.io/event/qcb_retreat_2022/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;!-- - **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>USC QCB yearly retreat 2021</title>
+      <link>https://liangchen-usc.github.io/event/qcb_retreat_2021/</link>
+      <pubDate>Wed, 17 Nov 2021 13:00:00 +0000</pubDate>
+      <guid>https://liangchen-usc.github.io/event/qcb_retreat_2021/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;!-- - **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

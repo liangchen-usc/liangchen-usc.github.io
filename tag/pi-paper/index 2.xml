@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PI paper | USC QCB Liang&#39;s Lab</title>
+    <link>https://liangchen-usc.github.io/tag/pi-paper/</link>
+      <atom:link href="https://liangchen-usc.github.io/tag/pi-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>PI paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2015-2022 Liang Chen</copyright><lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liangchen-usc.github.io/media/icon_hu6989a23ee951c653d708b725e94b0b78_382583_512x512_fill_lanczos_center_3.png</url>
+      <title>PI paper</title>
+      <link>https://liangchen-usc.github.io/tag/pi-paper/</link>
+    </image>
+    
+    <item>
+      <title>Understand variability of COVID-19 through population and tissue variations in expression of SARS-CoV-2 host genes</title>
+      <link>https://liangchen-usc.github.io/publication/liang_2020/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://liangchen-usc.github.io/publication/liang_2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
